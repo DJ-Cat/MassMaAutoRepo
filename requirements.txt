@@ -1,0 +1,7 @@
+# requirements.txt
+
+pymupdf
+spacy
+spacy-lookups-data
+sentence-transformers
+yake
