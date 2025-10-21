@@ -1,0 +1,1 @@
+So this is a work in progress but we are just testing out how to scale to more complex algos to prescreen candidates, also this is kinda ethically borderline so still have to see how good this is in being a filter while still giving everybody a shot at getting in 
